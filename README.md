@@ -1,2 +1,2 @@
 # odin-recipes-two
-Remake of the TOP Project for practicing html
+Remake of the first TOP project for practicing html.
